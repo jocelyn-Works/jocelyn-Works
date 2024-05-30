@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jocelyn</h1>
 <h3 align="center">Développeur web en formation concepteur développée d’application au campus Numérique in the Alps, à la recherche d'une entreprise pour une alternance début 2025.</h3>
 
-- 👨‍💻 All of my projects are available at [https://grelier-jocelyn.netlify.app/](https://grelier-jocelyn.netlify.app/)
+- 👨‍💻 Come visit my online portfolio : [https://grelier-jocelyn.netlify.app/](https://grelier-jocelyn.netlify.app/)
 
 - 📫 How to reach me **grelierjocelyn@gmail.com**
 
