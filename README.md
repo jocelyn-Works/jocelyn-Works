@@ -18,4 +18,4 @@
 
 
 <br>
-<p><a href="https://www.paypal.me/jocelyn380"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.paypal.me/jocelyn380" /></a></p><br><br>
+<p><a href="https://www.paypal.me/jocelyn380" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.paypal.me/jocelyn380" /></a></p><br><br>
