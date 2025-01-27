@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jocelyn</h1>
 <h3 align="center">Développeur web en formation concepteur Développeur d’Application au Campus Numérique in the Alps, à la recherche d'une entreprise pour une alternance début 2025.</h3>
 
-- 📫 How to reach me **grelierjocelyn@gmail.com**
-- my Web Site :computer: :iphone: : [jocelyn -grelier.com](https://www.jocelyn-grelier.com)
+- 📫 Contactez-moi **grelierjocelyn@gmail.com**
+- Mon site Web :computer: :iphone: : [jocelyn -grelier.com](https://www.jocelyn-grelier.com)
 
 
 <h3 align="left">Connect with me:</h3>
