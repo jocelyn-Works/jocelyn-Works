@@ -2,6 +2,7 @@
 <h3 align="center">Développeur web en formation concepteur Développeur d’Application au Campus Numérique in the Alps, à la recherche d'une entreprise pour une alternance début 2025.</h3>
 
 - 📫 How to reach me **grelierjocelyn@gmail.com**
+- my Web Site :computer: :iphone: : [jocelyn -grelier.com]([http://github.com](https://www.jocelyn-grelier.com)) 
 
 
 <h3 align="left">Connect with me:</h3>
